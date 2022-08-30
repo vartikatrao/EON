@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">EON</string>
+    <string name="title_activity_register">registerActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <!-- MAIN ACTIVITY -->
+    <string name="timer_swipe">Timer</string>
+    <string name="task_time_default">0.00h</string>
+
+    <!-- TIMER ACTIVITY -->
+    <string name="task_swipe">Press the back button to go to Tasks</string>
+    <string name="timer_default">00</string>
+    <string name="timer_colon">:</string>
+
+    <string name="button_start">Start</string>
+    <string name="button_pause">Pause</string>
+    <string name="button_reset">Reset</string>
+
+    <string name="switch_text">Completed Tasks</string>
+
+    <!-- TASK DIALOG -->
+    <string name="dialog_title">Task title...</string>
+    <string name="dialog_description">Task description...</string>
+    <string name="group_prompt">Group</string>
+    <string name="dialog_button">Confirm</string>
+
+    <!-- SHARED PREFERENCES KEY -->
+    <string name="timer_prefs">timerPrefs</string>
+    <string name="save_time_prefs">saveTimePrefs</string>
+
+    <!-- NOTIFICATION STRINGS -->
+    <string name="new_notification">Create a new notification</string>
+
+    <string name="channel_name">Timer End Channel</string>
+    <string name="channel_description">This is the channel for the end of the timer</string>
+
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+
+</resources>
